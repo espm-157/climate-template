@@ -1,27 +1,28 @@
 
-*add travis-ci badge here*
+[![Build Status](https://travis-ci.com/espm-157/climate-template.svg?token=ZVrezsGfh5uSAe6FpgAU&branch=master)](https://travis-ci.com/espm-157/climate-template)
+
 
 ## Team Members:
 
-- full name, github handle
-- full name, github handle
+- Dana P. Seidel, dpseidel
+- Carl Boettiger, cboettig
 
-This repository is a template for your team's repository.
+This repository is a template for every teams climate module repository. This is the first module of ESPM 157, intended to
+explore global temperature data to understand how the earth's climate is warming. 
 
 ## assignment
 
-All work for this assignment should be in the `assignment` directory.  You will work in the `climate.Rmd` notebook, and commit your rendered output files (`climate.md` and associated files) in the `assignment` directory as well.
+All work for this assignment is in the `assignment` directory.  Code is contained in the `climate.Rmd` notebook, and final rendered output files (`climate.md` and associated files) are in the `assignment` directory as well.
 
 ## Special files
 
-All team repositories will also include most of the special files found here:
+Additionally this repository, and all team repositories, includes most of the special files found here:
 
 ### Common files
 
 - `README.md` this file, a general overview of the repository in markdown format.  
 - `.gitignore` Optional file, ignore common file types we don't want to accidentally commit to GitHub. Most projects should use this. 
 - `<REPO-NAME>.Rproj` Optional, an R-Project file created by RStudio for it's own configuration.  Some people prefer to `.gitignore` this file.
-
 
 ### Infrastructure for Testing
 
