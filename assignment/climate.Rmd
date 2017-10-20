@@ -1,6 +1,6 @@
 ---
 title: "Climate Exercise"
-author: "Carl Boettiger & Dana Siedel"
+author: "Carl Boettiger & Dana Seidel"
 output: github_document
 ---
 
