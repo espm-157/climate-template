@@ -1,6 +1,6 @@
 Climate Exercise
 ================
-Carl Boettiger & Dana Siedel
+Carl Boettiger & Dana Seidel
 
 Unit I: Climate Change Module
 =============================
