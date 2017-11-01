@@ -1,6 +1,5 @@
 
-[![Build Status](https://travis-ci.com/espm-157/climate-template.svg?token=ZVrezsGfh5uSAe6FpgAU&branch=master)](https://travis-ci.com/espm-157/climate-template)
-
+[![Build Status](https://travis-ci.org/espm-157/climate-template.svg?branch=master)](https://travis-ci.org/espm-157/climate-template)
 
 ## Team Members:
 
