@@ -130,14 +130,14 @@ Plot the data and describe the trends you observe.
 # Exercise IV: Arctic Sea Ice?
 
 - <http://nsidc.org/data/G02135>
-- <ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/Sep/N_09_area.txt>
-    
+- <ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/north/daily/data/N_seaice_extent_daily_v3.0.csv>
+
 
 ## Question 1:
 
 - Describe the data set: what are the columns and units? 
 - Where do these data come from? 
-- What is the uncertainty in measurment? Resolution of the data? Interpretation of missing values?
+- What is the uncertainty in measurement? Resolution of the data? Interpretation of missing values?
 
 
 ## Question 2:
