@@ -11,7 +11,7 @@ explore global temperature data to understand how the earth's climate is warming
 
 ## assignment
 
-All work for this assignment is in the `assignment` directory.  Code is contained in the `climate.Rmd` notebook, and final rendered output files (`climate.md` and associated files) are in the `assignment` directory as well.
+All work for this assignment is in the `assignment` directory.  Code is contained in the `climate.Rmd` notebook, and final rendered output files (`climate.md` and associated files) are in the `assignment` directory as well. The general rubric you will be graded on is found in the `Rubric.md` file. 
 
 ## Special files
 
