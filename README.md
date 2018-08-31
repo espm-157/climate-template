@@ -1,17 +1,15 @@
 
-[![Build Status](https://travis-ci.org/espm-157/climate-template.svg?branch=master)](https://travis-ci.org/espm-157/climate-template)
 
-## Team Members:
 
-- Dana P. Seidel, dpseidel
-- Carl Boettiger, cboettig
+[![Build Status](https://travis-ci.org/espm-157/climate-template.svg?branch=master)](https://travis-ci.org/espm-157/climate-template) *Template badge, replace with your individual badge*
+
 
 This repository is a template for every teams climate module repository. This is the first module of ESPM 157, intended to
 explore global temperature data to understand how the earth's climate is warming. 
 
 ## assignment
 
-All work for this assignment is in the `assignment` directory.  Code is contained in the `climate.Rmd` notebook, and final rendered output files (`climate.md` and associated files) are in the `assignment` directory as well.
+All work for this assignment is in the `assignment` directory.  Code is contained in the `climate.Rmd` notebook, and final rendered output files (`climate.md` and associated files) are in the `assignment` directory as well. The general rubric you will be graded on is found in the `Rubric.md` file. 
 
 ## Special files
 
