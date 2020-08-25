@@ -18,11 +18,11 @@ _18 points are available in this module, though only 12 are needed for successfu
         _OR_ Synced .Rmd, .md, and all plots committed and displaying properly. Markdown has extreme errors or formatting issues that should have been caught by a cursory review before submission.
     - **3pts**: Synced .Rmd, .md, and plot files all committed, plots displaying properly. Markdown looks clean and nicely formatted
 
-- 3 pts for Travis
-    - **0pts**: travis not initiated, travis badge not added to the readme, travis build not passing 
-    - **1pts**: travis initiated, correct badge not added to the readme, travis build not passing 
-    - **2pts**: travis initiated, badge correctly added to read me, travis build failing OR travis initiated, badge incorrectly added to read me, travis build passing 
-    - **3pts**: travis initiated, badge correctly added to read me, travis build passing 
+- 3 pts for GH Actions
+    - **0pts**:  not initiated, GH-Actions badge not added to the readme, GH-Actions build not passing 
+    - **1pts**: GH-Actions initiated, correct badge not added to the readme, GH-Actions build not passing 
+    - **2pts**: GH-Actions initiated, badge correctly added to read me, GH-Actions build failing OR GH-Actions initiated, badge incorrectly added to read me, GH-Actions build passing 
+    - **3pts**: GH-Actions initiated, badge correctly added to read me, GH-Actions build passing 
 
 - 3 pts for written analysis
   - **0pts**: No supporting text provided.
