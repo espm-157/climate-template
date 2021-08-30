@@ -11,7 +11,7 @@ output: github_document
 ## Warm-up exercise: Examining CO2 trends in R
 
 - Example from <http://climate.nasa.gov/vital-signs/carbon-dioxide/>
-- Raw data from <ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt>
+- Raw data from <https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt>
 
 ```{r message=FALSE}
 library(tidyverse)
@@ -20,7 +20,7 @@ library(tidyverse)
 ```{r message=FALSE}
 
 co2 <- 
-read_table("ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt", 
+read_table("https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt", 
                   comment="#",
                   col_names = c("year", "month", "decimal_date", "average",
                                 "interpolated", "trend", "days"),
